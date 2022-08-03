@@ -12,3 +12,5 @@
 <p>The user can change the theme of the calculator based on their taste.The colors used in this simple calculator are purple,black,blue,green,red.</p>
 
 ![frt4](https://user-images.githubusercontent.com/109844329/182629787-73660a55-91e4-4307-8c1e-efabfda8ca45.jpg)
+
+<p>The link to my web site is https://agreeable-sand-01ce56710.1.azurestaticapps.net </p>
